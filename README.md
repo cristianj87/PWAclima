@@ -3,6 +3,7 @@
 Esta PWA usa la API de OpenWeather. Incluye:
 
 *index.html: Interfaz con botón para Ciudad Juárez.
+
 *style.css: Estilos modernos y elementos centrados.
 *app.js: Obtiene el clima actual según geolocalización o en caso contrario el clima de Ciudad Juárez, con íconos representativos a la descripción del clima.
 *manifest.json: Define nombre de la aplicación, metadatos, y configuración para instalación en el dispositivo.
